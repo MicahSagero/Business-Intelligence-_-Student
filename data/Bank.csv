@@ -1,5 +1,5 @@
 This is a bank marketing dataset recording customer attributes and outcomes of telemarketing contacts for term deposits. It contains demographic, account, and campaign-interaction fields plus the target y (whether the customer subscribed). The data supports customer segmentation, campaign effectiveness analysis, and predictive modeling. 
-Variables included;
+Variables included
 Numerical: age, balance, day, duration, campaign, pdays, previous
 
 Categorical: job, marital, education, default, housing, loan, contact, month, poutcome, y (target: yes/no)
