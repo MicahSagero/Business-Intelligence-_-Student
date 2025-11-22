@@ -1,0 +1,12 @@
+This is a bank marketing dataset recording customer attributes and outcomes of telemarketing contacts for term deposits. It contains demographic, account, and campaign-interaction fields plus the target y (whether the customer subscribed). The data supports customer segmentation, campaign effectiveness analysis, and predictive modeling. 
+  Variables included
+
+Numerical: age, balance, day, duration, campaign, pdays, previous
+
+Categorical: job, marital, education, default, housing, loan, contact, month, poutcome, y (target: yes/no)
+Row count: 4,521 rows
+Column count: 17 columns
+  Why it’s good for enterprise decision-making
+The mix of behavioral (campaign interaction), demographic, and financial variables allows analysts to measure campaign performance, compute KPIs (conversion rate, average deposit value proxy via duration), and build a DSS to prioritize contacts. It supports descriptive analytics (conversion by job/education/month), visualizations (funnel, lift charts), and predictive models to optimize marketing spend and improve ROI.
+  Suggested business question we can analyze
+“Which customer attributes and campaign features best predict subscription to a term deposit, and how should marketing prioritize prospects to maximize conversions while minimizing cost?”
